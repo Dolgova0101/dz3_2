@@ -7,6 +7,6 @@ public class Main {
         double bmi = service.calculate(1.87,98);
 
 
-        System.out.println("BMI: " + Math.round(bmi));
+        System.out.println("BMI: " + bmi);
     }
 }
